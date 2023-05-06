@@ -1,0 +1,34 @@
+html {
+    background-image:url("wallpaperflare.com_wallpaper\ \(7\).jpg");
+    
+    height: 100%;
+      /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#target-center{
+    text-align: center;
+}
+.targeted{
+    text-align: center;}
+#fname{
+    width: 300px; 
+    
+}
+#passwordd{
+    width: 300px;
+    height: 20px;
+}
+#number{
+    width: 300px;
+    height: 20px;
+    font-size: large;
+}
+#submit-button{
+    border-radius: 100%;
+}
+#button-mov {
+    justify-content: center;
+   align-items: center;
+}
